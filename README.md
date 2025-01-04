@@ -1,2 +1,2 @@
-# Linux - Gtk!
+# GTK!
 ## Only testing app for linux.
